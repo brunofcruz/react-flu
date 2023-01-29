@@ -1,0 +1,15 @@
+#content-card{
+    position: absolute;
+    top: 220px;
+    width: 100%;
+    margin: auto;
+    background-color: white !important;
+}
+
+#history{
+    width: 40%;
+    float: left;
+    text-align: justify;
+    background-color: white;
+    margin-left: 10%;
+}
